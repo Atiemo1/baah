@@ -1,0 +1,30 @@
+/* Nothing for you here :) */
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 1.5);
+    width: 320px;
+    
+}
+.Learning{
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 6px;
+    padding: 3px;
+}
+.card-content{
+    padding: 20px;
+}
+.c-img{
+    object-fit: cover;
+    width: 95%;
+    height: 160px;
+    padding: 4px;
+    align-items: center;
+    border-radius: 6px;
+}
